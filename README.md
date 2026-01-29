@@ -1,66 +1,130 @@
-# Olá! Eu sou Bruno Himovski Opuszka Machado Dutra
+# Bruno Himovski Opuszka Machado Dutra
 
- **Desenvolvedor Full Stack & Criador de Soluções**
+## Desenvolvedor Full Stack
 
-## Sobre Mim
-
-Sou um **estudante de Ciência da Computação** apaixonado por tecnologia e inovação. Tenho experiência sólida em desenvolvimento full stack, criando desde aplicações web responsivas até aplicativos mobile nativos e sistemas de automação.
-
-Acredito que a tecnologia deve simplificar a vida das pessoas. Por isso, desenvolvo soluções que não apenas funcionam, mas que realmente fazem a diferença no dia a dia dos usuários, sempre priorizando **segurança**, **performance** e **usabilidade**.
-
-### Estatísticas
-- **10+** Projetos Concluídos
-- **20+** Tecnologias Dominadas  
-- **3+** Anos de Experiência
-- **100%** Dedicação
+Desenvolvedor Full Stack com foco no ecossistema JavaScript/TypeScript e aplicações de alto desempenho. Experiência em engenharia de soluções completas, desde aplicações desktop até plataformas web.
 
 ---
 
-## Tecnologias & Ferramentas
+## Sobre Mim
 
-<div align="center">
+Estudante de Ciência da Computação na PUCPR, atualmente no 7º período com conclusão prevista para 2027. Trabalho como estagiário na Paraná Previdência, onde desenvolvo soluções de infraestrutura Linux e automações que impactam mais de 250 estações de trabalho.
+
+Arquiteto e desenvolvo sistemas completos usando React, Node.js, TypeScript, Docker, Tauri, FastAPI e MySQL. Tenho paixão por escrever código limpo, documentado e escalável, sempre buscando criar produtos que gerem impacto real.
+
+### Estatísticas
+
+- **526+ horas** de certificação
+- **15+ tecnologias** dominadas
+- **4+ anos** de estudo e prática
+- **2027** conclusão da graduação
+
+---
+
+## Projetos em Destaque
+
+### Krypta
+Gerenciador de senhas similar ao Bitwarden, desenvolvido em equipe de 4 pessoas. Projeto completo desde o planejamento até a finalização, com arquitetura containerizada.
+
+**Principais características:**
+- Aplicativo desktop multiplataforma com Tauri
+- API RESTful com autenticação JWT
+- Extensão para navegador em TypeScript
+- Arquitetura completamente containerizada
+
+**Tecnologias:** React, Vite, Tauri, FastAPI, MySQL, Docker, TypeScript
+
+---
+
+### Pricely
+Plataforma web que conecta microempreendedores a fornecedores de forma simples e eficiente, revolucionando o relacionamento B2B.
+
+**Principais características:**
+- Sistema de matching inteligente
+- Interface responsiva e moderna
+- API RESTful robusta
+- Integração completa front-end/back-end
+
+**Tecnologias:** React, Vite, Node.js, Express, MySQL, Axios
+
+---
+
+### Infraestrutura Zero Client
+Solução personalizada em Bash para transformar mais de 250 mini PCs em "Zero Clients" com acesso restrito a máquinas virtuais, padronizando o ambiente corporativo.
+
+**Principais características:**
+- Automação de atualizações via SSH
+- Economia de 100+ horas por ciclo
+- Documentação técnica completa (POPs)
+- Arquitetura Master Node centralizada
+
+**Tecnologias:** Linux, Bash, SSH, Ubuntu, Automação
+
+---
+
+### Automação com Python
+Web scrapers desenvolvidos para automatizar a recuperação de documentos para os departamentos de Finanças e Jurídico, integrados ao servidor de produção.
+
+**Principais características:**
+- Automação de processos manuais
+- Integração com servidor de produção
+- Alta confiabilidade e performance
+- Manutenção facilitada e documentada
+
+**Tecnologias:** Python, Selenium, Web Scraping
+
+---
+
+## Stack Tecnológica
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- HTML5 & CSS3
+- JavaScript & TypeScript
+- React
+- Vite
+- Vue.js
+- Bootstrap
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- Node.js & Express
+- FastAPI
+- Python
+- Rust
+- REST APIs
+- JWT Authentication
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+### Ferramentas & DevOps
+- Tauri
+- Docker
+- Git & GitHub
+- Linux CLI
+- Bash Scripting
+- Postman
 
 ### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- MySQL
+- SQLite
+- MongoDB
+- SQLAlchemy
+- Firebase
 
-### Ferramentas
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+### Infraestrutura
+- Linux (Ubuntu)
+- SSH
+- Redes
+- Segurança Web
+- Power BI
 
 ---
 
 ## Contato
 
-Estou sempre aberto a novos desafios e oportunidades. Entre em contato para discutirmos como posso ajudar em seu próximo projeto!
+Estou sempre aberto a novos desafios e oportunidades. Entre em contato para discutirmos como posso contribuir com seu projeto.
 
-<div align="center">
+- **GitHub:** [BrunoOpuszka](https://github.com/BrunoOpuszka)
+- **LinkedIn:** [brunoopuszka](https://www.linkedin.com/in/brunoopuszka/)
+- **Email:** brunoopuszkamachado@gmail.com
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno_opuszka)
+---
 
-</div>
+**© 2025 Bruno Himovski Opuszka Machado Dutra. Todos os direitos reservados.**
